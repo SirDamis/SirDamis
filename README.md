@@ -10,7 +10,6 @@ I love solving problems with code
 - 🔭 I’m a Software Engineer with experience bulding both softwares (backend and frontend logic), and intelligent systems powered by machine learning technologies.
 - 🌱 I’m interested in Backend Engineering, Cloud Engineering and Artificial Intelligence
 - 👯 I’m looking to collaborate on open source projects.
-- 🌱 I’m currently learning Blockchain Protcol Engineering using Rust and Substrate.
 - 📫 How to reach me: adedejidamisola@gmail.com
 
 ---
